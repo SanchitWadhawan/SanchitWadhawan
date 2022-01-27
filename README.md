@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://sanchitwadhawan.netlify.app/](https://sanchitwadhawan.netlify.app/)
 
-- 💬 Ask me about **Anything that needs innovation,working with early startups is my super power**
+- 💬 Ask me about **Anything that needs innovation,working with early startups is my super power & working with software companies is love**
 
 - 📫 How to reach me **w.sanchit3105@gmail.com**
 
