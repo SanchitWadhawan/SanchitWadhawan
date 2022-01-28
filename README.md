@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **w.sanchit3105@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1v0lS1-JE6UtYrCrOPoM6yNk7tbhnGrD-/view](https://drive.google.com/file/d/1v0lS1-JE6UtYrCrOPoM6yNk7tbhnGrD-/view)
+- 📄 My resume [https://drive.google.com/file/d/1v0lS1-JE6UtYrCrOPoM6yNk7tbhnGrD-/view](https://drive.google.com/file/d/1v0lS1-JE6UtYrCrOPoM6yNk7tbhnGrD-/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
