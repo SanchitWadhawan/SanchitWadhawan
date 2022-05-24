@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sanchit Wadhawan</h1>
-<h3 align="center">A passionate web developer and a CS undergraduate in specialization in Machine Learning from India</h3>
+<h3 align="center">A passionate web developer and a CS undergraduate with specialization in Machine Learning from India</h3>
 
-- 🌱 I am AI/ML enthusiast, DS-Algo is life long**
+- 🌱 I am AI/ML enthusiast, DS-Algo is life long
 
 - 👨‍💻 All of my projects are available at [https://sanchitwadhawan.netlify.app/](https://sanchitwadhawan.netlify.app/)
 
