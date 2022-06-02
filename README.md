@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1v0lS1-JE6UtYrCrOPoM6yNk7tbhnGrD-/view](https://drive.google.com/file/d/1v0lS1-JE6UtYrCrOPoM6yNk7tbhnGrD-/view)
 
-- ⚡ Fun fact **I'm a dancaholic**
+- ⚡ Fun fact **I'm a dancaholic & a Swiftie**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
