@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **w.sanchit3105@gmail.com**
 
-- 📄 My Resume :- ** [https://drive.google.com/file/d/1BYGU0cTHf8yU7wDMM23Sn4M0o40v1kjw/view?usp=sharing](https://drive.google.com/file/d/1v0lS1-JE6UtYrCrOPoM6yNk7tbhnGrD-/view)**
+- 📄 My Resume :-  [https://drive.google.com/file/d/1BYGU0cTHf8yU7wDMM23Sn4M0o40v1kjw/view]
 
 - ⚡ Fun fact **I'm a dancaholic & a Swiftie**
 
