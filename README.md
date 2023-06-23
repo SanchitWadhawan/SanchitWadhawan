@@ -2,7 +2,7 @@
 <h3 align="center">A passionate web developer, AI/ML practitioner, and a CS undergraduate specializing in Machine Learning from India</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" alt="Coding" width="300">
+  <img src="https://your-company-logo-url" alt="Your Company Logo" width="200">
 </p>
 
 <p align="center">
@@ -13,13 +13,15 @@
 
 🌱 I’m currently advancing **ML Algorithms & DS-Algo is a lifelong journey**
 
+💼 Currently working at **Your Company Name**
+
 💬 Ask me about **Anything that needs innovation. Working with early startups is my superpower**
 
 📄 My Resume: [View Here](https://drive.google.com/file/d/1JWV13aPbp7RK4mrubprrnMTXmk1rzKiY/view?usp=sharing)
 
 ⚡ Fun fact: **I'm a dancaholic and a Swiftie** 🎶
 
-### Skills and Tools:
+### Languages and Tools:
 <p>
   <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=flat" alt="Java">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat" alt="Python">
@@ -28,10 +30,6 @@
 </p>
 
 📫 How to reach me: **w.sanchit3105@gmail.com**
-
-<p align="center">
-  <img src="https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif" alt="Let's Connect!" width="300">
-</p>
 
 <!-- Add more sections or customize as needed -->
 
