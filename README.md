@@ -1,15 +1,14 @@
 <h1 align="center">Hi there! 👋 I'm Sanchit Wadhawan</h1>
-<h3 align="center">A passionate web developer, AI/ML practitioner, and a CS undergraduate specializing in Machine Learning from India</h3>
+<h3 align="center">A passionate web developer, AI/ML practitioner, and a CS undergraduate specializing in Machine Learning</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" alt="Coding" width="300">
 </p>
 
 <p align="center">
-  <a href="https://sanchitwadhawan.netlify.app/" target="_blank">Portfolio</a> •
-  <a href="mailto:w.sanchit3105@gmail.com">Email</a> •
-  <a href="https://www.linkedin.com/in/sanchitwadhawan/" target="_blank">LinkedIn</a> •
-  <a href="https://yourcompanywebsite.com">Your Company</a>
+  <a href="https://sanchitwadhawan.netlify.app/" target="_blank"><img src="https://yourcompanywebsite.com/logo.png" alt="Company Logo" width="30"></a> •
+  <a href="mailto:w.sanchit3105@gmail.com"><img src="https://path/to/email_logo.png" alt="Email" width="30"></a> •
+  <a href="https://www.linkedin.com/in/sanchitwadhawan/" target="_blank"><img src="https://path/to/linkedin_logo.png" alt="LinkedIn" width="30"></a>
 </p>
 
 🌱 I’m currently advancing **ML Algorithms & DS-Algo is a lifelong journey**
@@ -33,4 +32,4 @@
   <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=flat" alt="Express">
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat" alt="MySQL">
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat" alt="MongoDB">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style
+  <img src="https://img.shields.io/badge
