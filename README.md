@@ -1,5 +1,25 @@
 <!-- Your HTML code here -->
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="GIF">
+<!-- Your HTML code here -->
+<div class="gif-container">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="GIF" class="centered-gif">
+</div>
+
+<style>
+  /* Your CSS code here */
+  .gif-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 300px; /* Adjust the height as needed */
+    background-color: #000; /* Set the background color */
+  }
+
+  .centered-gif {
+    max-width: 100%;
+    max-height: 100%;
+  }
+</style>
+
 
 # 💫 About Me:
 - 🌱 I'm constantly pushing the boundaries of ML Algorithms & DS-Algo, fueling my passion for growth.<br>- 👨‍💻 Explore my awe-inspiring projects at [sanchitwadhawan.netlify.app](https://sanchitwadhawan.netlify.app/), where innovation takes center stage.<br>- 💬 Curious minds are welcome! Ask me about anything that demands innovation; I thrive when working with early startups.<br>- 🏢 Currently associated with **KPMG India**, where I bring cutting-edge solutions to life.<br>- 📫 Drop me a line at [w.sanchit3105@gmail.com](mailto:w.sanchit3105@gmail.com), and let's connect for exciting opportunities.<br>- 📄 Discover the epitome of my skills and experience in my resume: [View Resume](https://drive.google.com/file/d/1JWV13aPbp7RK4mrubprrnMTXmk1rzKiY/view?usp=sharing).<br>- ⚡ Fun fact: Unleashing my inner dance enthusiast and embracing the world of Swiftie fandom. Join the groove!
