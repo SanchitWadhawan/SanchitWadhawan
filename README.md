@@ -4,21 +4,6 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="GIF" class="centered-gif">
 </div>
 
-<style>
-  /* Your CSS code here */
-  .gif-container {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 300px; /* Adjust the height as needed */
-    background-color: #000; /* Set the background color */
-  }
-
-  .centered-gif {
-    max-width: 100%;
-    max-height: 100%;
-  }
-</style>
 
 
 # 💫 About Me:
